@@ -1,6 +1,6 @@
 <?php
 
-namespace FlyingLuscas\ViaCEP;
+namespace pedrocasado\ViaCEP;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;

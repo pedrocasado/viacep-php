@@ -1,6 +1,6 @@
 <?php
 
-namespace FlyingLuscas\ViaCEP;
+namespace pedrocasado\ViaCEP;
 
 use Mockery;
 use PHPUnit_Framework_TestCase as PHPUnitTestCase;

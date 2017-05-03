@@ -1,6 +1,6 @@
 <?php
 
-namespace FlyingLuscas\ViaCEP;
+namespace pedrocasado\ViaCEP;
 
 class AddressTest extends TestCase
 {
