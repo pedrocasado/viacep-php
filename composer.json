@@ -1,9 +1,9 @@
 {
-    "name": "flyingluscas/viacep-php",
+    "name": "pedrocasado/viacep-php",
     "type": "library",
     "description": "ViaCEP PHP SDK",
     "keywords": [
-        "flyingluscas",
+        "pedrocasado",
         "viacep",
         "cep",
         "brazil",
@@ -11,13 +11,11 @@
         "address",
         "enderecos"
     ],
-    "homepage": "https://github.com/flyingluscas/viacep-php",
+    "homepage": "https://github.com/pedrocasado/viacep-php",
     "license": "MIT",
     "authors": [
         {
-            "name": "Lucas Pires",
-            "email": "lucas.pires.mattos@gmail.com",
-            "homepage": "https://github.com/flyingluscas",
+            "homepage": "https://github.com/pedrocasado",
             "role": "Developer"
         }
     ],
@@ -33,12 +31,12 @@
     },
     "autoload": {
         "psr-4": {
-            "FlyingLuscas\\ViaCEP\\": "src"
+            "pedrocasado\\ViaCEP\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FlyingLuscas\\ViaCEP\\": "tests"
+            "pedrocasado\\ViaCEP\\": "tests"
         }
     },
     "scripts": {
