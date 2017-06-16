@@ -1,6 +1,6 @@
 <?php
 
-namespace pedrocasado\ViaCEP;
+namespace NossaJuregNaoSeMudaONameSpacePraFazerPR\ViaCEP;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
