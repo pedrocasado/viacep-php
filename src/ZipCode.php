@@ -1,6 +1,6 @@
 <?php
 
-namespace pedrocasado\ViaCEP;
+namespace TaPegandoFogoBixo\ViaCEP;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
@@ -17,7 +17,7 @@ class ZipCode
     /**
      * Address.
      *
-     * @var \pedrocasado\ViaCEP\Address
+     * @var \TaPegandoFogoBixo\ViaCEP\Address
      */
     protected $address;
 
@@ -37,7 +37,7 @@ class ZipCode
      *
      * @param  string $zipCode
      *
-     * @return \pedrocasado\ViaCEP\Address
+     * @return \TaPegandoFogoBixo\ViaCEP\Address
      */
     public function find($zipCode)
     {
