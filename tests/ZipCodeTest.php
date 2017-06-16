@@ -1,6 +1,6 @@
 <?php
 
-namespace pedrocasado\ViaCEP;
+namespace TaPegandoFogoBixo\ViaCEP;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
